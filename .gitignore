@@ -1,0 +1,7 @@
+# Node.js
+node_modules/
+config/.env
+npm-debug.log
+*.log
+*.sqlite3
+*.sqlite
