@@ -20,3 +20,9 @@ deleting and updating cart
 customers trades 
 chart between customers
 
+# payment gateway
+payPall
+
+# hosting
+hostinger vps hosting
+
